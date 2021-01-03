@@ -8,7 +8,9 @@ body{
 }
 .test-div1{
     border: 5px dotted orangered;
+    padding: 10px;
 }
 .test-div2{
     border: 5px dotted green;
+    padding: 10px;
 }
